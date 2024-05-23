@@ -15,7 +15,7 @@ function showAPI() {
             fetchh();
             fetchDetail();
             showValue.value = "";
-        }
+        } 
     });
 }
 // Search API
